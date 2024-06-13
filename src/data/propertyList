@@ -1,0 +1,68 @@
+const propertyList = [
+  {
+    id: 1,
+    title: "Cozy Apartment in Downtown",
+    description: "A beautiful apartment located in the heart of downtown.",
+    price: 100,
+    imageUrl: "https://a0.muscache.com/im/pictures/miso/Hosting-46136014/original/90651914-eab8-4f54-85d2-d95e73f34dd2.jpeg?im_w=960&im_q=highq",
+    location: "Downtown",
+    rating: 4.5,
+    amenities: ["Wifi", "Kitchen", "Parking"],
+  },
+  {
+    id: 2,
+    title: "Modern Loft with City View",
+    description: "A spacious loft with stunning views of the city skyline.",
+    price: 150,
+    imageUrl: "https://a0.muscache.com/im/pictures/prohost-api/Hosting-749996089802009824/original/99931a90-870f-4827-bb41-885519215f74.jpeg?im_w=960&im_q=highq",
+    location: "City Center",
+    rating: 4.8,
+    amenities: ["Wifi", "Gym", "Pool"],
+  },
+  {
+    id: 3,
+    title: "Seaside Villa with Private Beach",
+    description: "Luxurious villa overlooking the ocean with private beach access.",
+    price: 300,
+    imageUrl: "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2MjI1MjI0NDQ0MzYzMjM4Mg%3D%3D/original/ae3426d1-fba4-44d4-bed2-690426f25f7a.jpeg?im_w=960&im_q=highq",
+    location: "Beachfront",
+    rating: 5,
+    amenities: ["Wifi", "Private Beach", "Jacuzzi"],
+  },
+
+   {
+    id: 4,
+    title: "Luxury Beachfront Villa",
+    description: "Experience luxury living in this stunning beachfront villa.",
+    price: 500,
+    imageUrl: "https://a0.muscache.com/im/pictures/miso/Hosting-51747375/original/7ae1bb91-6914-4034-ab7b-677ba92de2b5.jpeg?im_w=960",
+    location: "Beachfront",
+    rating: 4.9,
+    amenities: ["Wifi", "Private Beach", "Infinity Pool"],
+  },
+  {
+    id: 5,
+    title: "Mountain Cabin Retreat",
+    description: "Escape to the mountains and enjoy the tranquility of nature.",
+    price: 200,
+    imageUrl: "https://a0.muscache.com/im/pictures/miso/Hosting-53356377/original/92fe34bc-bf42-4bc0-a361-a08353e0ec12.jpeg?im_w=960&im_q=highq",
+    location: "Mountain",
+    rating: 4.7,
+    amenities: ["Wifi", "Fireplace", "Hiking Trails"],
+  },
+  {
+    id: 6,
+    title: "City Center Penthouse",
+    description: "Live the high life in this luxurious city center penthouse.",
+    price: 600,
+    imageUrl: "https://a0.muscache.com/im/pictures/2e59c7d2-3766-42cb-ba86-9958cbe307bc.jpg?im_w=960",
+    location: "City Center",
+    rating: 4.8,
+    amenities: ["Wifi", "Gym", "Concierge"],
+  },
+
+  
+  // Add more properties as needed
+];
+
+export default propertyList;
